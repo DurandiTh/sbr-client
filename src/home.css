@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: grey;
+}
+
+.home img {
+    width: 50rem;
+  }
+
+ .home h2 {
+   font-size: 4rem;
+   font-style: italic;
+} 
+
+  
+  
